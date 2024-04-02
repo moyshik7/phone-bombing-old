@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "ES2020",
+        "module": "commonjs",
+        "rootDir": "./src/",
+        "outDir": "./build/",
+        "allowJs": true,
+        "checkJs": true,
+        "declaration": true,
+        "removeComments": true,
+        "newLine": "lf",
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "noImplicitAny": false,
+        "skipLibCheck": true
+    }
+}
